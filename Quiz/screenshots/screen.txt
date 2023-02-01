@@ -1,0 +1,8 @@
+screenshots/pic1.jpg|драйв
+screenshots/pic2.jpg|престиж
+screenshots/pic3.jpg|вий
+screenshots/pic4.jpg|зодиак
+screenshots/pic5.jpg|омен
+screenshots/pic6.jpg|семь
+screenshots/pic7.jpg|олдбой
+screenshots/pic8.jpg|амели
